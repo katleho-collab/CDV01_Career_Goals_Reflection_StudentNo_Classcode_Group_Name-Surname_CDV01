@@ -16,21 +16,46 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:katleho
+- **Date:16/03/2025
+- **Current Role/Position:student
+- **Field of Interest:software engineering
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+ - List your current skills and areas of expertise.
+Social media management (content creation, scheduling, platform analytics).  
+Personal branding and audience growth. 
+Influencer marketing (negotiating paid promotions, brand collaborations)  
+Networking and relationship building  
+Basic data analysis (tracking engagement, follower growth)  
+
+ - Identify skills you need to develop or improve.
+using the cascading style sheets
+Programming languages (e.g., Python, Java, C++)
+using Software development methods like scrum and etc 
+learning how to use Technical tools better (e.g., version control systems like Git, github)  
+being more efficient when Problem-solving and debugging or approaching projects in general.   
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
+ - Describe your key interests related to your career.
+
+Technology and software development. 
+The connection between social media and technology (e.g., developing social platforms or tools)    
+Innovation in making digital communication even better and connecting more with online communities.
+
+
     - What values are important to you in a work environment?
+
+being able to express creativity and the ability to experiment and apply new ideas. 
+Flexibility in managing a project or whatever im workin on.
+being able to collaborate and build my self and grow within a team.
+Opportunities for continuous learning and development in my skills  
+A balance between personal and none personal goals/projects when working with a team. 
+
 
 ### Part 2: Career Exploration Insights
 
@@ -41,25 +66,50 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+My background in personal branding and influencing could help in marketing software products or understanding user needs better.
+My social media management experience can also give me a unique understanding of user behavior and engagement digitaly, which can be valuable in developing social tools.  
+
+
+ - Identify any gaps or areas for further exploration.
+I need to strengthen my technical skills in programming and software development, to fully transition into a software engineer as best as i can.  
+want to explore how my social media expertise can be applied in tech whether it'd be through internships or finding a way to use my socials to network and connect with other professonals in the same space.  
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+Landing an internship at a tech company ,maybe a social media or digital tools focussed tech company.
+building a portfolio and applying the ideas i have and building a couple of software projects.
+
     - Explain the rationale behind each goal.
+
+An internship offers hands-on experience, exposure, and a chance to apply my learning in the real-world .
+A portfolio showcases my abilities to potential employers, blending my past experience (e.g., social media) with my new technical skills.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+explore starting my own tech venture, like a social media tool or platform, as soon as my skills are good enough to enable me to.
+
+
     - Describe how these align with your interests and skills.
+I value creativity and problem-solving, at which fits the dynamic, and i love entrepreneurship.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+- Detail specific actions or steps needed to achieve each short-term goal.
+   
+Apply to internships via platforms like LinkedIn as soon as i can.
+Practice coding interviews and meet with career services and polish my portfolio.
+
+- Include any resources or support required.
+any extra tutoring services,other courses(free) textbooks, and academic advisors.
+Career services for resume help, LinkedIn for networking, and internship listings.
+
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
